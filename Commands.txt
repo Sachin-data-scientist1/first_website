@@ -1,0 +1,6 @@
+
+1. git init                     -> To add a folder in WORKING DIRECTORY.
+2. git add file name            -> To files in stazing area.
+3. git add .                    -> To add all files into stazing area.
+4. git status                   -> To check status 
+5. git commit -m  "Commit_name" -> Add files into GIT REPOSITORY and make final check points.
