@@ -1,6 +1,15 @@
 
-1. git init                     -> To add a folder in WORKING DIRECTORY.
-2. git add file name            -> To files in stazing area.
-3. git add .                    -> To add all files into stazing area.
-4. git status                   -> To check status 
-5. git commit -m  "Commit_name" -> Add files into GIT REPOSITORY and make final check points.
+1. git init                                 -> To add a folder in WORKING DIRECTORY.
+2. git add file name                        -> To files in stazing area.
+3. git add .                                -> To add all files into stazing area.
+4. git status                               -> To check status 
+5. git commit -m  "Commit_name"             -> Add files into GIT REPOSITORY and make final check points.
+6. git log                                  -> To view all commits. 
+7. git log --oneline                        -> Showing commits into one - one line
+8. git diff                                 ->
+9. git diff --staged                        ->
+10. git branch                              -> To check your present branch.
+11. git branch branch_name                  -> To create a new branch.
+12. git switch(checkout) branch_name        -> To change branch.
+13. git switch -c branch_name               -> To create and switch branch in single command.
+14. git checkout -b branch_name             -> To create and switch branch in single command.
